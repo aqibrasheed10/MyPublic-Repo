@@ -4,4 +4,5 @@ python:
 
 script: python hello.py
 
-travis encrypt "travis-zis5116:rewkobUQDoFsOKpUCfeMK8LJ" --add notifications.slack
+notifications:
+  slack: travis encrypt "travis-zis5116:rewkobUQDoFsOKpUCfeMK8LJ" --add notifications.slack
