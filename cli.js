@@ -1,1 +1,1 @@
-owsay JavaScript FTW!
+cowsay JavaScript FTW!
