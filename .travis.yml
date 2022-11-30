@@ -3,3 +3,6 @@ python:
   - "3.4"
 
 script: python hello.py
+
+notifications:
+  slack: travis-zis5116:rewkobUQDoFsOKpUCfeMK8LJ
