@@ -1,8 +1,8 @@
-language: python
-python:
-  - "3.4"
+language: node_js
+node_js:
+  - "7"
+before_script:
+  - npm install -g cowsay
+script: cli.js
 
-script: python hello.py
-
-notifications:
-  slack: travis encrypt "travis-zis5116:rewkobUQDoFsOKpUCfeMK8LJ" --add notifications.slack
+   
