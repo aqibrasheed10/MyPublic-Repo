@@ -3,6 +3,6 @@ node_js:
   - "7"
 before_script:
   - npm install -g cowsay
-script: cli.js
+#script: cli.js
 
    
