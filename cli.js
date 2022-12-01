@@ -1,1 +1,1 @@
-cowsay JavaScript FTW
+cowsay "JavaScript FTW"
