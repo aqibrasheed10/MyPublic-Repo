@@ -1,1 +1,1 @@
-cowsay JavaScript FTW!
+console.log('Server running at 5000');
