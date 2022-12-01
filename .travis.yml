@@ -3,5 +3,6 @@ node_js:
   - 8
   - 9
   - node
+before script : npm install -g cowsay
 script: node cli.js
    
