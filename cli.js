@@ -1,1 +1,5 @@
-console.log('Server running at 5000');
+console.log(cowsay.say({
+    text : "I'm a moooodule",
+    e : "oO",
+    T : "U "
+}));
